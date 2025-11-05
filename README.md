@@ -4,7 +4,7 @@ This directory contains the GitHub Pages website for InnerChess, a chess trainin
 
 ## 🌐 Live Site
 
-Once deployed, the site will be available at: `https://alexanderbrevig.github.io/innerchess-app/` and `https://innerchess.app`
+[innerchess.app](https://innerchess.app) and [alexanderbrevig.github.io/innerchess-app](https://alexanderbrevig.github.io/innerchess-app)
 
 ## 📁 Structure
 
