@@ -115,6 +115,7 @@ body {
     transition: color 0.3s ease;
     padding: 0.5rem 1rem;
     border-radius: 8px;
+    white-space: nowrap;
 }
 
 .nav-link:hover {
